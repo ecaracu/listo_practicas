@@ -10,3 +10,4 @@
 - `git restore <fichero>`: descarta lo que no has guardado
 - `git restore <fichero>`: descarta lo que no has guardado
 - Atajos de teclado: mira ATAJOS.md
+- `git push --force`: la mejor forma de subir cambios
