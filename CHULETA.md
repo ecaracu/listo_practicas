@@ -1,4 +1,5 @@
 #ore wa sound man
+- `git pull`: trae lo nuevo de GitHub
 - `git status`: qué ha cambiado
 - `git add <fichero>`: prepara un fichero para el commit
 - `git commit -m "mensaje"`: guarda lo preparado en un commit
@@ -11,4 +12,3 @@
 - `git restore <fichero>`: descarta lo que no has guardado
 - Atajos de teclado: mira ATAJOS.md
 - `git revert HEAD`: deshace el último commit con otro commit
-- `git pull`: trae lo nuevo de GitHub
