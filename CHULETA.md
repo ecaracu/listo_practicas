@@ -11,3 +11,4 @@
 - `git restore <fichero>`: descarta lo que no has guardado
 - Atajos de teclado: mira ATAJOS.md
 - `git revert HEAD`: deshace el último commit con otro commit
+- `git pull`: trae lo nuevo de GitHub
