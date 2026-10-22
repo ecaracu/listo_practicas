@@ -1,5 +1,5 @@
+
 from flask import render_template
-import os
 
 from app.features.home import home_bp
 
